@@ -1,5 +1,7 @@
 ### Machine Learning Image Classification with Javacsript and Nyckel.
 
+You can click this [link](link) to access the already made model online from this article 
+
 ### Table of Contents
 - [Introduction](#introduction)
 
